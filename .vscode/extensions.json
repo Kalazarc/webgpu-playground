@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "streetsidesoftware.code-spell-checker",
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint"
+  ]
+}
